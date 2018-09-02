@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title><![CDATA[Build Maintain Loose Repeat]]></title>
+    <link href="http://yoursite.com/atom.xml" rel="self"/>
+    <link href="http://yoursite.com/"/>
+    <updated>2018-09-02T16:48:35+05:30</updated>
+    <id>http://yoursite.com/</id>
+    <author>
+        <name><![CDATA[Ayoush Chourasia]]></name>
+        
+    </author>
+    <generator uri="http://octopress.org/">Octopress</generator>
+
+    
+    <entry>
+        <title type="html"><![CDATA[Testing]]></title>
+        <link href="http://yoursite.com/blog/2018/09/02/testing/"/>
+        <updated>2018-09-02T16:47:24+05:30</updated>
+        <id>http://yoursite.com/blog/2018/09/02/testing</id>
+        <content type="html"><![CDATA[<p>This is just for testing.</p>
+]]></content>
+    </entry>
+    
+</feed>
